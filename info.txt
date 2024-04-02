@@ -1,6 +1,2 @@
-Usage: <UUID>,<Person>,<Status>
-Statuses: 1 (can register), 0 (can use)
-Remove item from list to revoke access
-
 7a3bc15f-1f95-4d6a-8570-44575cb84c13,Raymond,0
 178be620-7bf6-4d3c-9d66-138510ad4a73,Henry,1
