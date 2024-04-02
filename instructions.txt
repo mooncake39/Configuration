@@ -1,0 +1,3 @@
+Usage: <UUID>,<Person>,<Status>
+Statuses: 1 (can register), 0 (can use)
+Remove item from list to revoke access
